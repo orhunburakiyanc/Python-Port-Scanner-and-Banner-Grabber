@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Educational-orange)
 
-## 📋 What is this?
+## What is this?
 
 This is a network reconnaissance tool I built to learn how port scanning actually works behind the scenes. It checks which ports are open on a target machine and tries to identify what services are running on them by grabbing their banners—basically the "hello" message services send when you connect.
 
@@ -43,7 +43,7 @@ Port scanning can be illegal depending on where you do it and what you're scanni
 
 Many organizations consider unauthorized scanning an attack. Some countries have laws that make it a criminal offense. This tool exists to help you learn about network security—use it responsibly and legally. I'm not liable for how you choose to use it.
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 Clone the repository:
 
@@ -72,7 +72,7 @@ python3 scanner.py 192.168.1.100 20 3306
 
 The scanner will show you which ports are open and what banners it captured from them.
 
-## 💡 What you'll learn
+## What you'll learn
 
 Working with this tool teaches you:
 
