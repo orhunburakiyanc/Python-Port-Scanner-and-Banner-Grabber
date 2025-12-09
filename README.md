@@ -27,4 +27,6 @@ This tool is created to demonstrate network scanning concepts. It is intended to
    git clone [https://github.com/orhunburakiyane/Python-Port-Scanner-and-Banner-Grabber.git](https://github.com/orhunburakiyane/Python-Port-Scanner-and-Banner-Grabber.git)
    cd Python-Port-Scanner-and-Banner-Grabber
 
-    python scanner.py <target_ip>
+2. **Run the scanner**
+   ```bash
+   python scanner.py <target_ip>
