@@ -1,4 +1,4 @@
-# Python Port Scanner & Banner Grabber 🛡️
+# Python Port Scanner & Banner Grabber
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -72,7 +72,7 @@ python3 scanner.py 192.168.1.100 20 3306
 
 The scanner will show you which ports are open and what banners it captured from them.
 
-## What you'll learn
+## What I learnt
 
 Working with this tool teaches you:
 
